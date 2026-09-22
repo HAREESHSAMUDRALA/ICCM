@@ -22,4 +22,3 @@ Conference site: [iccm2023.iaasse.org](http://iccm2023.iaasse.org/)
 ## 📬 Contact
 
 Samudrala Hareesh
-NIT Andhra Pradesh
